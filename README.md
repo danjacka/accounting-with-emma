@@ -43,7 +43,7 @@ data structure. To play the game with your changes, press ESC again to access
 the TIC-80 console, then type "run".
 
 You can also play and make changes locally. Get the repository from
-https://github.com/danjacka/accounting-with-emma. Then with `make`, `entr` and
+https://github.com/danjacka/accounting-with-emma. Then with `make` and
 `tic80` on your path:
 
 ```
